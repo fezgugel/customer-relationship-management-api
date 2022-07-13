@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Cristian",
+      "empresa": "CERA",
+      "email": "yomellamonesgugel@gmail.com",
+      "telefono": 12434553445,
+      "notas": "Notas",
+      "id": 2
+    },
+    {
+      "nombre": "Crisflow",
+      "empresa": "crisflow",
+      "email": "yomellamonesgugel@gmail.com",
+      "telefono": 12445555,
+      "notas": "Notas",
+      "id": 3
+    }
+  ]
+}
